@@ -1,0 +1,4 @@
+input_readcount:
+  class: File
+  path: ../../tests/data/test.readcount
+bases: 'ACGTN'
